@@ -1,0 +1,2 @@
+<view>测试</view>
+<button bindtap="load">按钮</button>
